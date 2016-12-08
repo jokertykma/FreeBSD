@@ -1,0 +1,3 @@
+**FreeBSD**
+
+FreeBSD là một hệ điều hành kiểu Unix được phát triển từ Unix theo nhánh phát triển của BSD dựa trên 386BSD và 4.4BSD. Nó có khả năng chạy trên các bộ vi xử lý tương thích với họ vi xử lý x86 của Intel, cũng như trên các máy DEC Alpha, các bộ xử lý UltraSPARC của Sun Microsystems, các bộ xử lý Itanium (IA-64) và AMD64. Khả năng hỗ trợ cho kiến trúc PowerPC đang được phát triển. FreeBSD thường được đánh giá cao nhờ vào tính tin cậy và mạnh mẽ của nó.
